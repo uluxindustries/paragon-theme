@@ -6,7 +6,7 @@ Default theme for Paragon 2015. For more information see http://www.cipelli.net/
  - Inspired by the work of erigongraphics - http://erigongraphics.deviantart.com
  - Modified by Cipelli - http://www.cipelli.net
 
-## Licence - GPL 3.0
+## Licence - GPL 3.0+
 Copyright (C) 2015 Cipelli.net
 
 This program is free software: you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation, either version 3 of the License, or (at your option) any later version.
