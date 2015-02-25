@@ -1,13 +1,16 @@
 # Paragon Theme
-Default theme for Paragon 2015. For more information see http://www.cipelli.net/paragon/
+Default theme for Paragon. Contains GTK+ 2 and 3 as well as Xfwm themes. For more information see http://www.cipelli.net/paragon/
+
+## Binaries
+Can be found via the OBS repositories, http://software.opensuse.org or via the Paragon website.
 
 ## Credits
- - Originally Flattastic (Orange Light) by nale12 - http://nale12.deviantart.com
+ - Modified and maintained by Cipelli - http://www.cipelli.net
+ - Originally Flattastic by nale12 - http://nale12.deviantart.com
  - Inspired by the work of erigongraphics - http://erigongraphics.deviantart.com
- - Modified by Cipelli - http://www.cipelli.net
 
 ## Licence - GPL 3.0+
-Copyright (C) 2015 Cipelli.net
+Copyright (C) 2015 Cipelli.net <paragon@cipelli.net>
 
 This program is free software: you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation, either version 3 of the License, or (at your option) any later version.
 
